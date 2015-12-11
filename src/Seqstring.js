@@ -51,7 +51,7 @@ class Seqstring {
     var min = Seqstring.getIndexOffset(characters.length, minLength);
     var max = Seqstring.getIndexOffset(characters.length, maxLength);
 
-    var index = min;
+    var index = min - 1;
 
     while (index > -1) {
       if(max === index) {

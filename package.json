@@ -1,6 +1,6 @@
 {
   "name": "seqstring",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sequential string generator.",
   "main": "src/Seqstring",
   "scripts": {

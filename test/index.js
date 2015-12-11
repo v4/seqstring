@@ -38,4 +38,9 @@ describe('Generate strings', function() {
       }
     }
   });
+  it('starts with "a"', function() {
+    var generator = new Seqstring();
+    var first = generator.next();
+    assert.equal(first.value, 'a');
+  });
 });
