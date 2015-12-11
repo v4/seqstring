@@ -1,0 +1,2 @@
+# seqstring
+Sequential string generator.
