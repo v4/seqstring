@@ -1,0 +1,27 @@
+{
+  "name": "seqstring",
+  "version": "0.1.0",
+  "description": "Sequential string generator.",
+  "main": "src/Seqstring",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v4/seqstring.git"
+  },
+  "keywords": [
+    "string",
+    "generator",
+    "alphanumeric"
+  ],
+  "author": "Jaimy de Graaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v4/seqstring/issues"
+  },
+  "homepage": "https://github.com/v4/seqstring#readme",
+  "devDependencies": {
+    "chai": "^3.4.1"
+  }
+}
