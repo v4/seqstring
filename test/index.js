@@ -1,7 +1,7 @@
 'use strict';
 
 var assert = require('chai').assert;
-var Seqstring = require('../src/seqstring');
+var Seqstring = require('../src/Seqstring');
 
 describe('Generate strings', function() {
   it('with no parameters', function() {
