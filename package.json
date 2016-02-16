@@ -4,7 +4,7 @@
   "description": "Sequential string generator.",
   "main": "src/Seqstring",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/v4/seqstring#readme",
   "devDependencies": {
-    "chai": "^3.4.1"
+    "chai": "^3.4.1",
+    "mocha": "^2.4.5"
   }
 }
