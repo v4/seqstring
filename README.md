@@ -2,6 +2,8 @@
 
 This module helps you to generate sequential strings, it uses the new [generator function in ES6](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Statements/function*). 
 
+[![Build Status](https://travis-ci.org/v4/seqstring.svg?branch=master)](https://travis-ci.org/v4/seqstring)
+
 ## Installation
 
 This module is only compatible with Node.js >= 5.x.x.
